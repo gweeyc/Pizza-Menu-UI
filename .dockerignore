@@ -4,3 +4,4 @@ build
 .env
 Dockerfile
 .dockerignore
+get_helm.sh
