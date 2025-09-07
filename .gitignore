@@ -2,3 +2,4 @@ node-modules/
 build/
 .env
 .DS_Store
+get_helm.sh
